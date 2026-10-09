@@ -14,11 +14,11 @@ The organizer sends you `CraftaxRecorder.zip` and your participant ID. Setup tak
 
 ## Submitting recordings
 
-Send your recordings to **[Organizer: upload link or email address]**. [What to send](recording.md#submit-your-recordings).
+Send your recordings to the provided OneDrive folder. [What to send](recording.md#submit-your-recordings).
 
 ## Contact
 
-Questions or problems: **[Organizer: name and email]**. Please include the details listed under [Report a problem](troubleshooting.md#report-a-problem).
+Questions or problems: **nhadavi@uef.fi**. Please include the details listed under [Report a problem](troubleshooting.md#report-a-problem).
 
 ---
 
